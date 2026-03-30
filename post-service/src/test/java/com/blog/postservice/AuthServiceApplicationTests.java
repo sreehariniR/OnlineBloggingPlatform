@@ -1,4 +1,4 @@
-package com.blog.authservice;
+package com.blog.postservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
